@@ -1,10 +1,8 @@
 # 💰 Calculadora de Salário Líquido & 13º (CLT)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calculadora-renan.streamlit.app/)
-
 Uma aplicação web interativa desenvolvida em **Python** para simular descontos trabalhistas e prever ganhos reais, incluindo o cálculo detalhado das parcelas do Décimo Terceiro Salário.
 
-🔗 **[Acesse o App Online Aqui](https://calculadora-renan.streamlit.app/)**
+🔗 **[Acesse o App Online Aqui](https://calculadora-salario-app-bmamexgmpyq2pcrsmbximn.streamlit.app/)**
 *(Substitua o link acima pelo seu link real do Streamlit após o deploy)*
 
 ## 🎯 Objetivo
@@ -23,9 +21,3 @@ Facilitar o entendimento dos descontos em folha de pagamento (CLT) através de u
 * **Streamlit:** Framework para criação de web apps de dados.
 * **Pandas:** Manipulação e estruturação dos dados para os gráficos.
 
-## 📦 Como rodar localmente
-Se quiser testar na sua máquina antes de subir para a nuvem:
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Renamlins/calculadora-salario-streamlit.git](https://github.com/Renamlins/calculadora-salario-streamlit.git)
